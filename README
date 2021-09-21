@@ -1,0 +1,4 @@
+This code computes the tree-level non-Gaussian covariance and super-sample covariance
+of redshift-space matter power spectrum before and after reconstruction with arbitraty scales.
+
+References: C.Hikage, R. Takahashi, K. Koyama, PRD 102 (2020) 083514 (arXiv:2007.13998)
